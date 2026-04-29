@@ -1,20 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# ABC-123 Matrix Display
+# 676767
 
-The algorithm is based on this https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode developed by James Ross.
-
-The ABC-123 Matrix Display serves as a template for any combination of letters and numbers that you like!
-For example: https://github.com/alexandercoabad/Philippine_IC_Design_Boot_Camp_2026/tree/main
- 
-Link to actual VGA Playground https://vga-playground.com/?repo=https://github.com/alexandercoabad/ABC_123_MatrixDisplay
-
-
-https://github.com/user-attachments/assets/4a0a5c7e-606f-47e8-84d2-c81142dcafcf
-
-
-
-
+Test Project IC
 
 ## Layout
 2D
