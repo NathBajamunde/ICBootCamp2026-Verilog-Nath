@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "Philippine IC Design Boot Camp 2026!"      # Project title
-  author:       "Alexander Co abad"      # Your name
-  discord:      "alexandercoabad_25756"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Philippine IC Design Boot Camp 2026 Matrix-style display based on VGA Glyph by James Ross https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode"      # One line description of what your project does
+  title:        "IC Design Bootcamp Verilog Practice"      # Project title
+  author:       "Nathanael A. Bajamunde"      # Your name
+  discord:      "Sazoverse"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "IC Display 67"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
