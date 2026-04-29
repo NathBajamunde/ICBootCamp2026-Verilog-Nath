@@ -4,19 +4,6 @@
 
 Test Project IC
 
-## Layout
-2D
-<img width="682" height="474" alt="Screenshot 2026-04-21 at 11 24 49 AM" src="https://github.com/user-attachments/assets/f6a713f0-3eb4-474d-9afe-fd3638590a9b" />
-
-
-3D
-<img width="907" height="635" alt="Screenshot 2026-04-21 at 11 25 49 AM" src="https://github.com/user-attachments/assets/df1d5c5e-eed5-41c9-9478-b676f658c414" />
-
-
-
-link to 3D viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/ABC_123_MatrixDisplay/tinytapeout.oas&pdk=sky130A
-
-
 ## Set up your Verilog project
 
 1. Add your Verilog files to the `src` folder.
